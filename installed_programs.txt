@@ -1,0 +1,9 @@
+visual_studio_code --- binary_name: code
+neovim --- binary_name: nvim (vim as dependency) | apt_name: neovim
+OpenFoam.org --- binary_name: openfoam11 (paraview as dependency [paraviewopenfoam510])
+gcc  --- binary_name: gcc
+golang --- binary_name: go
+git --- binary_name: git
+npm --- binary_name: npm
+Timeshift --- binary_name: timeshift
+
